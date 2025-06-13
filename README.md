@@ -39,6 +39,7 @@ A fun and interactive Tic-Tac-Toe game built using **Java Servlets** and **JSP**
 ```bash
 git clone https://github.com/AnanyaGarg25/TicTacToe.git
 cd TicTacToeServletProject
+```
 
 2. Open in NetBeans or your preferred IDE.
 
