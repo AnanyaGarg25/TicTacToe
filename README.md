@@ -4,7 +4,7 @@ A fun and interactive Tic-Tac-Toe game built using **Java Servlets** and **JSP**
 
 ---
 
-## Features
+## 🚀 Features
 
 ✅ Two-player turn-based game (X and O)  
 ✅ Win and Draw detection 
